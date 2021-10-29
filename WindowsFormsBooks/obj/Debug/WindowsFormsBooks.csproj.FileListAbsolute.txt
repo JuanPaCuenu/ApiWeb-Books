@@ -1,0 +1,13 @@
+C:\Users\cuenu\source\repos\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.exe.config
+C:\Users\cuenu\source\repos\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.exe
+C:\Users\cuenu\source\repos\WindowsFormsBooks\bin\Debug\WindowsFormsBooks.pdb
+C:\Users\cuenu\source\repos\WindowsFormsBooks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cuenu\source\repos\WindowsFormsBooks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.csprojAssemblyReference.cache
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.Form1.resources
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.Properties.Resources.resources
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.csproj.GenerateResource.cache
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.csproj.CoreCompileInputs.cache
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.csproj.CopyComplete
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.exe
+C:\Users\cuenu\source\repos\WindowsFormsBooks\obj\Debug\WindowsFormsBooks.pdb
